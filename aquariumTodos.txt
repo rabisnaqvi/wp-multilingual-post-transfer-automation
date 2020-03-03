@@ -1,0 +1,7 @@
+check drive for unplaced translated blogs
+
+copy text from dutch site, do google translate, grammarly and put back on english site
+
+remove the text from top that leads to the shop "blockquote"
+
+alt text for seo plugin and check for images
