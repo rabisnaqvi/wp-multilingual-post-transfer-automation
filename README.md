@@ -3,6 +3,7 @@ This project was a tool written for a personal use to automate a data entry task
 #Description
 
 This tool was used automate the process of:
+
 1. fetch posts from site 1 which is in X language
 2. translating the posts in Y language
 3. creating the translated posts in site 2 which is in Y language
