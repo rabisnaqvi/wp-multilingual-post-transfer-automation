@@ -1,0 +1,26 @@
+{
+  "name": "aquariumcrawlerautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon start index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^5.1.4",
+    "body-parser": "^1.19.0",
+    "dom-parser": "^0.1.6",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs-extra": "^8.1.0",
+    "he": "^1.2.0",
+    "mongoose": "^5.8.11",
+    "nodemon": "^2.0.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "wpapi": "^1.2.1"
+  }
+}
